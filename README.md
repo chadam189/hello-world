@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+What's up! Learning to code, one "hello world" program at a time.
